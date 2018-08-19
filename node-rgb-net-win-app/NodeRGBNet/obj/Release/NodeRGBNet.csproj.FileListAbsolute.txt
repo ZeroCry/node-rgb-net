@@ -36,8 +36,6 @@ D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\b
 D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\obj\Release\NodeRGBNet.exe
 D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\obj\Release\NodeRGBNet.pdb
 D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\NodeRGBNet.exe.config
-D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\obj\Release\NodeRGBNet.exe
-D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\obj\Release\NodeRGBNet.pdb
 D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\NodeRGBNet.exe
 D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\NodeRGBNet.pdb
 D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\HidSharp.dll
@@ -72,4 +70,5 @@ D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Relea
 D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\Sanford.Multimedia.Midi.pdb
 D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\Sanford.Multimedia.Midi.xml
 D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\System.ValueTuple.xml
-D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\obj\Release\NodeRGBNet.csprojResolveAssemblyReference.cache
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\obj\Release\NodeRGBNet.exe
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\obj\Release\NodeRGBNet.pdb

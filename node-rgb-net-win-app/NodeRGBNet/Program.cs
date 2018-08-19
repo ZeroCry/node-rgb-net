@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.IO;
 using Newtonsoft.Json;
 using RGB.NET.Core;
 using RGB.NET.Brushes;
+using RGB.NET.Devices.Asus;
 using RGB.NET.Devices.CoolerMaster;
 using RGB.NET.Devices.Corsair;
 using RGB.NET.Devices.Razer;
@@ -50,7 +52,6 @@ namespace NodeRGBNet
                         output.error = "No valid argument.";
                         break;
                 }
-                
             }
             catch (Exception e)
             {
@@ -88,7 +89,11 @@ namespace NodeRGBNet
                     deviceType = RGBDeviceType.All;
                     break;
             }
-
+            //string exeDir = Path.GetDirectoryName(System.Reflection.Assembly.GetEntryAssembly().Location);
+            //Console.WriteLine(exeDir);
+            //CoolerMasterDeviceProvider.PossibleX64NativePaths.Add(exeDir + "\\x64\\CMSDK.dll");
+            //CoolerMasterDeviceProvider.PossibleX86NativePaths.Add(exeDir + "\\x86\\CMSDK.dll");
+            AddDllPaths();
             surface.LoadDevices(new CorsairDeviceProviderLoader().GetDeviceProvider(), deviceType);
             surface.LoadDevices(new CoolerMasterDeviceProviderLoader().GetDeviceProvider(), deviceType);
             surface.LoadDevices(new LogitechDeviceProviderLoader().GetDeviceProvider(), deviceType);
@@ -121,7 +126,30 @@ namespace NodeRGBNet
                 return false;
             }
         }
+
+        public static void AddDllPaths()
+        {
+            string exeDir = Path.GetDirectoryName(System.Reflection.Assembly.GetEntryAssembly().Location);
+
+            AsusDeviceProvider.PossibleX86NativePaths.Add(exeDir + "\\86\\x86/AURA_SDK.dll");
+
+            CoolerMasterDeviceProvider.PossibleX64NativePaths.Add(exeDir + "\\x64\\CMSDK.dll");
+            CoolerMasterDeviceProvider.PossibleX86NativePaths.Add(exeDir + "\\x86\\CMSDK.dll");
+
+            CorsairDeviceProvider.PossibleX64NativePaths.Add(exeDir + "\\x64\\CMSDK.dll");
+            CorsairDeviceProvider.PossibleX86NativePaths.Add(exeDir + "\\x86\\CMSDK.dll");
+
+            LogitechDeviceProvider.PossibleX64NativePaths.Add(exeDir + "\\x64\\RzChromaSDK.dll");
+            LogitechDeviceProvider.PossibleX64NativePaths.Add(exeDir + "\\x64\\RzChromaSDK64.dll");
+            LogitechDeviceProvider.PossibleX86NativePaths.Add(exeDir + "\\x86\\RzChromaSDK.dll");
+
+            LogitechDeviceProvider.PossibleX64NativePaths.Add(exeDir + "\\x64\\LogitechLedEnginesWrapper.dll");
+            LogitechDeviceProvider.PossibleX86NativePaths.Add(exeDir + "\\x86\\LogitechLedEnginesWrapper.dll");
+
+        }
+
     }
+
 
     public class ExecArguments
     {
