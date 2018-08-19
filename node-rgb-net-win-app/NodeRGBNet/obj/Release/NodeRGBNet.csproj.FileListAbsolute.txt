@@ -1,0 +1,75 @@
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\NodeRGBNet.exe.config
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\NodeRGBNet.exe
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\NodeRGBNet.pdb
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\HidSharp.dll
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\Newtonsoft.Json.dll
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Brushes.dll
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Core.dll
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Decorators.dll
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Asus.dll
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.CoolerMaster.dll
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Corsair.dll
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.DMX.dll
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Logitech.dll
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Novation.dll
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Razer.dll
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Groups.dll
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\Sanford.Multimedia.Midi.dll
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\System.ValueTuple.dll
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\HidSharp.pdb
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\HidSharp.xml
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\Newtonsoft.Json.xml
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Brushes.xml
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Core.xml
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Decorators.xml
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Asus.xml
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.CoolerMaster.xml
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Corsair.xml
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.DMX.xml
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Logitech.xml
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Novation.xml
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Razer.xml
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Groups.xml
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\Sanford.Multimedia.Midi.pdb
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\Sanford.Multimedia.Midi.xml
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\System.ValueTuple.xml
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\obj\Release\NodeRGBNet.exe
+D:\Farabi\Dev\CSharp Node Modules\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\obj\Release\NodeRGBNet.pdb
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\NodeRGBNet.exe.config
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\obj\Release\NodeRGBNet.exe
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\obj\Release\NodeRGBNet.pdb
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\NodeRGBNet.exe
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\NodeRGBNet.pdb
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\HidSharp.dll
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\Newtonsoft.Json.dll
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Brushes.dll
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Core.dll
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Decorators.dll
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Asus.dll
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.CoolerMaster.dll
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Corsair.dll
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.DMX.dll
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Logitech.dll
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Novation.dll
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Razer.dll
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Groups.dll
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\Sanford.Multimedia.Midi.dll
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\System.ValueTuple.dll
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\HidSharp.pdb
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\HidSharp.xml
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\Newtonsoft.Json.xml
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Brushes.xml
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Core.xml
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Decorators.xml
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Asus.xml
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.CoolerMaster.xml
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Corsair.xml
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.DMX.xml
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Logitech.xml
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Novation.xml
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Devices.Razer.xml
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\RGB.NET.Groups.xml
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\Sanford.Multimedia.Midi.pdb
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\Sanford.Multimedia.Midi.xml
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\bin\Release\System.ValueTuple.xml
+D:\Farabi\Dev\node_module\node-rgb-net\node-rgb-net-win-app\NodeRGBNet\obj\Release\NodeRGBNet.csprojResolveAssemblyReference.cache
